@@ -17,17 +17,20 @@ An e-commerce data analysis project using the Olist dataset to understand custom
 - Average Delivery Time for Pet Shop
 - Average Price & Payment Value by City
 - Shipping Days vs Review Score
+- 
 
 📈 Dashboards
-
 Excel Dashboard
 "Olist Dashboard" 
+
 
 Power BI Dashboard
 "Olist Power BI Dashboard"
 
+
 Tableau Dashboard
 "Olist Tableau Project"
+
 
 🗄️ SQL
 SQL queries used for the analysis are included in this repository.
